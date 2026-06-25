@@ -3,12 +3,16 @@
 Hello! 🤝🏻 I'm a Software Architect and Consultant passionate about driving innovation and crafting robust technical solutions.
 
 💻 I specialize in building scalable corporate and consumer products. 
+
 My front-end expertise centers around Vue and Angular, while on the back-end, I architect systems using Python, Node.js, Java, PHP, and InterSystems IRIS. 
 I am also highly experienced in cloud environments (GCP) and integrating AI-driven workflows (like OpenAI APIs) to automate and optimize development.
+
 
 ⚡ For me, technology is a tool to think outside the box and meaningfully improve people's lives.
 
 📖 "You can make anything by writing." ~ C. S. Lewis 
+
+
 
 ## Contact
 
